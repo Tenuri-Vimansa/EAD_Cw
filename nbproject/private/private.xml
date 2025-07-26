@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/view/EAD_Cw.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/view/Home.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/view/Login.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/view/Doctor.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/controller/HomeController.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/view/Appointment.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/controller/AppointmentController.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/model/Appointmentmodel.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/view/Docdetails.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/controller/DoctorController.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/view/Dashboard.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/model/DoctorModel.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/controller/DocdetailsController.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/model/DBConnection.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/model/DashboardModel.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/controller/DashboardController.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/util/ReportViewer.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/controller/ReportController.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/controller/LoginController.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/view/RegisterForm.java</file>
+            <file>file:/C:/Users/Tenuri/OneDrive/Documents/EAD_Cw/src/model/LoginModel.java</file>
+        </group>
+    </open-files>
+</project-private>
