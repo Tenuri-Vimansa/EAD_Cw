@@ -33,7 +33,7 @@ public class DashboardModel {
     public DefaultTableModel getAppointmentsForDate(java.sql.Date date) {
         DefaultTableModel model = new DefaultTableModel(new String[]{"Appointment No", "Patient Name", "Doctor Name", "Date"}, 0);
         try (Connection con = DBConnection.getConnection()) {
-            String sql = "SELECT Apnumber, PatientName, Doctor, Date FROM drappointment WHERE Date = ?";
+            String sql = "SELECT Apnumber, PatientName, Doctor, Date FROM drappointment WHERE Date = ?ORDER BY Apnumber ASC";
             PreparedStatement ps = con.prepareStatement(sql);
             ps.setDate(1, date);
             ResultSet rs = ps.executeQuery();

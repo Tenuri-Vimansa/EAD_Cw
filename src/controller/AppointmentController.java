@@ -57,7 +57,7 @@ private void assignNumber() {
         String doctor = (String) view.getDoctorComboBox().getSelectedItem();
         String numberText = view.getAppointmentNumberField().getText().trim();
 
-        // Validate required fields
+        
         if (name.isEmpty() || ageText.isEmpty() || numberText.isEmpty() || doctor == null) {
             JOptionPane.showMessageDialog(view, "Please fill in all fields before confirming.");
             return;
