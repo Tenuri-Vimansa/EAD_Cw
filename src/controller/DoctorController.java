@@ -22,7 +22,7 @@ public class DoctorController {
         });
     }
 
-    // ✅ Method to open the Search form
+    
    private void openSearchForm() {
     Docdetails searchView = new Docdetails();            
     new DocdetailsController(searchView);              

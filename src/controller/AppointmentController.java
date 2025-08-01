@@ -63,11 +63,11 @@ private void assignNumber() {
             return;
         }
 
-        //  Convert age and appointment number
+        
         int age = Integer.parseInt(ageText);
         int number = Integer.parseInt(numberText);
 
-        //  Get date 
+        
         java.util.Date selectedDate = view.getDateChooser().getDate();
         if (selectedDate == null) {
             JOptionPane.showMessageDialog(view, "Please select an appointment date.");

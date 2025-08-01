@@ -20,8 +20,8 @@ public class Dashboard extends javax.swing.JFrame {
      */
    public Dashboard() {
     initComponents();
-    setLocationRelativeTo(null); // Center the window
-    setVisible(true);            // ✅ IMPORTANT: Make it visible!
+    setLocationRelativeTo(null); 
+    setVisible(true);            
     System.out.println("Dashboard frame opened");
 }
 

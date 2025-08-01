@@ -180,7 +180,7 @@ public class Appointment extends javax.swing.JFrame {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 Appointment appointmentView = new Appointment();
-                new AppointmentController(appointmentView); // ✅ attach controller
+                new AppointmentController(appointmentView); 
                 appointmentView.setVisible(true);
             }
         });
